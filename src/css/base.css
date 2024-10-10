@@ -6,6 +6,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 90vh;
+  background: lightgray;
 }
 main{
     display: flex;
